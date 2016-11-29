@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "About"
-description: "UNSAFEBUS, NOT A OLD DRIVER"
+description: "UNSAFEBUS, NOT AN OLD DRIVER"
 header-img: "img/green.jpg"
 ---
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="http://ohe65aya0.bkt.clouddn.com/unsafebus_logo.png" align="center"></p>
 </center>
 
 我是赵华，不是老司机。
@@ -15,25 +15,6 @@ header-img: "img/green.jpg"
 ###坚信
 
 
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
-
-
-###关注：
-
-
-- [元认知](http://www.mesule.com/)
-- 写作
-- Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
-
-
-
-
-###代表作：
 
 
 

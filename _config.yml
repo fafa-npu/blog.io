@@ -8,7 +8,7 @@ url: "http://fafa-npu.github.com"
 
 # About/contact
 owner: 
-  name: "Unsafebus"
+  name: "fafa-npu"
   email: zhaohua00@live.com
   bio: "我不是老司机"
 
@@ -60,4 +60,4 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
-# Links to include in footer navigation
+#Links to include in footer navigation
